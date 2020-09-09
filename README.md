@@ -9,20 +9,18 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
 
 
-💻    &nbsp; Full Stack Developer.<br />
-✍🏻   &nbsp;  Decent competitive programming, DSA, Algo skills.<br />
+💻    &nbsp; Full Stack Web Developer.<br />
 🔭   &nbsp;  Currently exploring AWS & Python.<br />
 👯    &nbsp; I’m intrested in keeping up-to-date with latest technological developments.<br />
-🤔    &nbsp; I’m able to work with minimal supervision.<br />
+✍🏻   &nbsp;  Able to work independently and on teams.<br />
 ⚡️    &nbsp; I’m ready to take up new technical challenges.<br />
 ⛳   &nbsp;  I specialize in React built apps<br />
-👀    &nbsp; You can find me on linkedin [https://www.linkedin.com/in/abdullah-canbolat-6ab794109/](https://www.linkedin.com/in/abdullah-canbolat-6ab794109/)<br />
-📫    &nbsp; How to reach me: abdullahtcanbolat@gmail.com<br />
+👀    &nbsp; Linkedin [https://www.linkedin.com/in/abdullah-canbolat-6ab794109/](https://www.linkedin.com/in/abdullah-canbolat-6ab794109/)<br />
+📫    &nbsp; reach me at: abdullahtcanbolat@gmail.com<br />
 
 ---------------------------
 ---------------------------
 
-<div>
  <p>
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
@@ -45,4 +43,3 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
   </p>
-</div>
