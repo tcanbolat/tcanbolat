@@ -1,10 +1,8 @@
 ### Hey there! 👋
 
-I'm Abdullah a full stack web developer from Portland, Oregon. I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new. 
+My name is Abdullah, I'm a Full Stack React Developer. I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages & frameworks.
 
-```
-Programmer (noun): Someone who solves a problem you didn't know you had, in a way you don't understand. 😉
-```
+ 
 
 <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
 
