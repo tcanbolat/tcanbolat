@@ -7,12 +7,12 @@ My name is Abdullah, I'm a Full Stack React Developer. I have a creative and foc
 <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
 
 
-💻    &nbsp; Full Stack Web Developer.<br />
+👨🏻‍💻    &nbsp; Full Stack Web Developer.<br />
 🔭   &nbsp;  Currently exploring AWS & Python.<br />
-👯    &nbsp; I’m intrested in keeping up-to-date with latest technological developments.<br />
+💻    &nbsp; I’m intrested in keeping up-to-date with latest technological developments.<br />
 ✍🏻   &nbsp;  Able to work independently and on teams.<br />
 ⚡️    &nbsp; I’m ready to take up new technical challenges.<br />
-⛳   &nbsp;  I specialize in React built apps<br />
+📱   &nbsp;  I specialize in React built apps<br />
 👀    &nbsp; Linkedin [https://www.linkedin.com/in/abdullah-canbolat-6ab794109/](https://www.linkedin.com/in/abdullah-canbolat-6ab794109/)<br />
 📫    &nbsp; reach me at: abdullahtcanbolat@gmail.com<br />
 
